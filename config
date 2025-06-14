@@ -23,3 +23,12 @@ cursor-color = #bbbbbb
 cursor-text = #ffffff
 selection-background = #b5d5ff
 selection-foreground = #000000
+
+keybind = "clear"
+keybind = ctrl+minus=decrease_font_size:1
+keybind = ctrl+shift+comma=reload_config
+keybind = ctrl+plus=increase_font_size:1
+keybind = ctrl+equal=increase_font_size:1
+keybind = ctrl+zero=reset_font_size
+keybind = ctrl+shift+c=copy_to_clipboard
+keybind = ctrl+shift+v=paste_from_clipboard
